@@ -119,26 +119,25 @@ void setup()
 {
   // Set Pin 2 (PD2) as input
   DDRD |= (1 << PD2);
-  
+
   // Set LED Pins as output
   pinMode(RED_LED, OUTPUT);
   pinMode(GREEN_LED, OUTPUT);
   pinMode(BLUE_LED, OUTPUT);
 
-	// Initialize variables
-	isOn = false;
-	isInterrupt = false;
-	
-	//Serial.begin(9600); 
-	receiver.enableIRIn(); 
-	attachInterrupt(digitalPinToInterrupt(IR_RECEIVER), customISR, RISING);
+  // Initialize variables
+  isOn = false;
+  isInterrupt = false;
+
+  receiver.enableIRIn(); 
+  attachInterrupt(digitalPinToInterrupt(IR_RECEIVER), customISR, RISING);
 }
 
 void loop()
 {
   if (isInterrupt)
   {
-	// Receive and process the signal
+    // Receive and process the signal
     receive();
     isInterrupt = false;
   }
