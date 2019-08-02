@@ -38,5 +38,8 @@ IR LED GND         | GND
 
 <h2>See Also</h2>
 <ul>
-  <li><a class="urllink" href="https://arduino-projects-free.blogspot.com/2017/04/control-led-with-ir-remote-control-and.html" rel="nofollow" target="_blank">Control LED with IR Remote</a></li>
+    <li><a class="urllink" href="https://randomnerdtutorials.com/arduino-ir-remote-control/" rel="nofollow" target="_blank">Arduino – Control LEDs with IR Remote Control</a></li>
+  <li><a class="urllink" href="https://arduino-projects-free.blogspot.com/2017/04/control-led-with-ir-remote-control-and.html" rel="nofollow" target="_blank">Control LED with IR Remote Control and Arduino </a></li>
+  
+  
 </ul>
