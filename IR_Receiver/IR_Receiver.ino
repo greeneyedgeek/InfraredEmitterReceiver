@@ -10,7 +10,7 @@
   
   The circuit:
   * IR RECEIVER to digital pin 2
-  * IR RECEIVER POS to +5V
+  * IR RECEIVER VCC to +5V
   * IR RECEIVER GND PIN to GROUND
   * RGB LED GREEN PIN to digital pin 8
   * RGB LED BLUE PIN to digital pin 9
