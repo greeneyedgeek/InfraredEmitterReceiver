@@ -19,29 +19,24 @@
 
 <img src="" alt="Circuit">
   
-RGB LED &nbsp;    | Arduino Nano Receiver
-------------------|------------
-RED               | 10 
-GREEN             | 8
-BLUE              | 9
-GND               | GND
+RGB LED &nbsp;     | Arduino Nano Receiver
+-------------------|------------
+RGB LED RED        | 10 
+REB LED GREEN      | 8
+RGB LED BLUE       | 9
+RGB LED GND        | GND
+IR RECEIVER SIGNAL | PIN 2
+IR RECEIVER VCC    | +5V
+IR RECEIVER GND    | GND
 
-RGB LED &nbsp;    | Arduino Nano Emitter
-------------------|------------
+RGB LED &nbsp;     | Arduino Nano Emitter
+-------------------|------------
+IR LED SIGNAL      | PIN 3
+IR LED VCC         | +5V
+IR LED GND         | GND
 
 
-
-<!--
-<h2>Schematic</h2>
-<h2>Code</h2>
--->
 <h2>See Also</h2>
 <ul>
-  <!--
-  <li><a class="urllink" href="https://www.arduino.cc/en/Tutorial/LiquidCrystalDisplay" rel="nofollow" target="_blank">Arduino LCD       Tutorial</a></li>
-  <li><a class="urllink" href="http://www.fritzing.org" rel="nofollow" target="_blank">Fritzing</a></li>
-  <li><a class="urllink" href="http://arduiniana.org/libraries/streaming/" rel="nofollow" target="_blank">Streaming library</a></li>
-  <li><a class="urllink" href="http://eclipse.baeyens.it/" rel="nofollow" target="_blank">Sloeber IDE for Arduino</a></li>
-  <li><a class="urllink" href="https://www.eclipse.org/downloads/packages/release/2018-12/r/eclipse-ide-cc-developers" rel="nofollow" target="_blank">Eclipse IDE for C/C++ Developers</a></li>
--->
+  <li><a class="urllink" href="https://arduino-projects-free.blogspot.com/2017/04/control-led-with-ir-remote-control-and.html" rel="nofollow" target="_blank">Control LED with IR Remote</a></li>
 </ul>
