@@ -1,6 +1,6 @@
 /*
   Project:  InfraredEmitterReceiver
-  File:   	IR_Receiver.cpp
+  File:     IR_Receiver.cpp
   Created:  2019-07-27
   Modified: 2019-08-02
   Author:   Gabriel Fontaine-Escobar
