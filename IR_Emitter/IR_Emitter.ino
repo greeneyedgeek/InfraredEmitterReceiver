@@ -10,7 +10,7 @@
   
   The circuit:
   * IR LED to digital pin 3
-  * IR LED POS to +5V
+  * IR LED VCC to +5V
   * IR LED GND PIN to GROUND
 */
 
