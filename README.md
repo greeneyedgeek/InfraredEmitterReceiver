@@ -15,9 +15,13 @@
   <li>Resistors (to protect the circuit)</li>
 </ul>
 
-<h2>Circuit</h2>
+<h2>Breadboard</h2>
 
-<img src="" alt="Circuit">
+<img src="https://github.com/greeneyedgeek/InfraredEmitterReceiver/blob/master/breadboard.png" alt="Breadboard">
+
+<h2>Schematic</h2>
+
+<img src="https://github.com/greeneyedgeek/InfraredEmitterReceiver/blob/master/schematic.png" alt="Schematic">
   
 RGB LED &nbsp;     | Arduino Nano Receiver
 -------------------|------------
