@@ -12,7 +12,7 @@
   <li>Jumper wires</li>
   <li>Breadboard</li>
   <li>Power source</li>
-  <li>Resistors (to protect the circuit)</li>
+  <li>Resistors</li>
 </ul>
 
 <h2>Breadboard</h2>
