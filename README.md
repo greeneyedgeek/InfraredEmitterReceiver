@@ -15,13 +15,13 @@
   <li>Resistors</li>
 </ul>
 
-<h2>Breadboard</h2>
-
-<img src="https://github.com/greeneyedgeek/InfraredEmitterReceiver/blob/master/breadboard.png" alt="Breadboard">
-
 <h2>Schematic</h2>
 
 <img src="https://github.com/greeneyedgeek/InfraredEmitterReceiver/blob/master/schematic.png" alt="Schematic">
+
+<h2>Breadboard</h2>
+
+<img src="https://github.com/greeneyedgeek/InfraredEmitterReceiver/blob/master/breadboard.png" alt="Breadboard">
   
 RGB LED &nbsp;     | Arduino Nano Receiver
 -------------------|------------
