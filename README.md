@@ -25,19 +25,20 @@
 <img src="https://github.com/greeneyedgeek/InfraredEmitterReceiver/blob/master/breadboard.png" alt="Breadboard">
   
 RGB LED &nbsp;     | Arduino Nano Receiver
--------------------|------------
+-------------------|----------------------
 RED                | 10 
-GREEN              | 8
 BLUE               | 9
+GREEN              | 8
 GND                | GND
 
 IR RECEIVER LED &nbsp; | Arduino Nano Receiver
+-----------------------|----------------------
 SIGNAL                 | PIN 2
 VCC                    | +5V
 GND                    | GND
 
 IR LED &nbsp;      | Arduino Nano Emitter
--------------------|------------
+-------------------|---------------------
 SIGNAL             | PIN 3
 VCC                | +5V
 GND                | GND
