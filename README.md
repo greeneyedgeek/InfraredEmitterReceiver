@@ -18,7 +18,7 @@
 
 <h2>Schematic</h2>
 
-<img src="https://github.com/greeneyedgeek/InfraredEmitterReceiver/blob/master/schematic.png" alt="Schematic">
+<img src="https://github.com/greeneyedgeek/InfraredEmitterReceiver/blob/master/schematic1.png" alt="Schematic">
 
 <h2>Breadboard</h2>
 
