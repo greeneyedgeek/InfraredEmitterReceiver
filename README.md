@@ -9,7 +9,7 @@
   <li>1 x IR Receiver</li>
   <li>1 x RGB LED</li>
   <li>1 x IR LED</li>
-  <li>2 x Resistor</li>
+  <li>4 x Resistor</li>
   <li>Jumper wires</li>
   <li>Breadboard</li>
   <li>Power source</li>
